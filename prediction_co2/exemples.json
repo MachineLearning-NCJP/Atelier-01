@@ -1,0 +1,46 @@
+[
+  {
+    "statut": "estimation indicative",
+    "cv": 7,
+    "hybride": "non",
+    "usage": "Prototype exploratoire ; validation globale insuffisante pour un préremplissage automatique.",
+    "co2_g_km": 127.7,
+    "plage_g_km": [
+      84.6,
+      170.8
+    ],
+    "lignes_comparables": 1729,
+    "familles_comparables": 77,
+    "support_limite": false,
+    "km_annuels": 15000,
+    "scenario_tonnes_an": 1.92,
+    "plage_scenario_tonnes_an": [
+      1.27,
+      2.56
+    ]
+  },
+  {
+    "statut": "estimation indicative",
+    "cv": 7,
+    "hybride": "oui",
+    "usage": "Prototype exploratoire ; validation globale insuffisante pour un préremplissage automatique.",
+    "co2_g_km": 93.1,
+    "plage_g_km": [
+      62.8,
+      123.4
+    ],
+    "lignes_comparables": 14,
+    "familles_comparables": 5,
+    "support_limite": true,
+    "km_annuels": 15000,
+    "scenario_tonnes_an": 1.4,
+    "plage_scenario_tonnes_an": [
+      0.94,
+      1.85
+    ]
+  },
+  {
+    "statut": "non estimable",
+    "motif": "Combinaison absente de l'entraînement : retrouver la fiche officielle."
+  }
+]
