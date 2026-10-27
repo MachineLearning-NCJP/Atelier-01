@@ -1,0 +1,24 @@
+{
+  "k_retenu": 3,
+  "silhouette": 0.4700244082633848,
+  "silhouette_n": 5000,
+  "silhouettes_negatives_pct": 1.4200000000000002,
+  "variance_acp": [
+    0.6708138901654669,
+    0.26212645407963175
+  ],
+  "variance_acp_cumulee": 0.9329403442450986,
+  "ari_plafonnement": 0.5480008790345896,
+  "ari_sans_co2": 0.8089982225013949,
+  "lignes_plafonnees": 6248,
+  "features": [
+    "puiss_max",
+    "masse_ordma_min",
+    "co2_mixte"
+  ],
+  "unites": {
+    "puiss_max": "kW",
+    "masse_ordma_min": "kg",
+    "co2_mixte": "g/km"
+  }
+}

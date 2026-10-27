@@ -1,0 +1,13 @@
+experience,graine,ari
+initialisation,0,0.9998215823123477
+initialisation,7,0.9998215823123477
+initialisation,21,1.0
+initialisation,99,0.9998215823123477
+initialisation,2026,1.0
+sous_echantillon_80pct,0,1.0
+sous_echantillon_80pct,7,1.0
+sous_echantillon_80pct,21,0.9950119023368523
+sous_echantillon_80pct,99,0.9948245348542984
+sous_echantillon_80pct,2026,0.9994647992249034
+plafonnement_50_famille,42,0.5480008790345896
+sans_CO2,42,0.8089982225013949

@@ -1,0 +1,17 @@
+{
+  "lignes_analyse": 20824,
+  "colonnes_source": 12,
+  "lignes_complet_nettoye": 20880,
+  "co2_absents": 56,
+  "familles": 444,
+  "top10_pct": 63.124279677295426,
+  "cnit_repetes": 61,
+  "correlation_conso_co2": 0.976291257947536,
+  "unites": {
+    "puiss_max": "kW",
+    "masse_ordma_min": "kg",
+    "co2_mixte": "g/km",
+    "puiss_admin": "CV"
+  },
+  "perimetre": "Catalogue mars 2015 ; variantes ; hors 56 lignes électriques sans CO2 ; pas pondéré par ventes"
+}

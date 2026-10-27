@@ -1,0 +1,3 @@
+modele,partition,mae,rmse,r2
+KNN 7 voisins,entrainement,4.046854357839111,6.879359210350196,0.9747106963371378
+Moyenne constante,entrainement,31.191368288270347,43.25930635036278,0.0

@@ -1,0 +1,33 @@
+{
+  "modele_retenu": "KNN 7 voisins",
+  "features": [
+    "puiss_max",
+    "masse_ordma_min",
+    "energ",
+    "hybride",
+    "typ_boite_nb_rapp"
+  ],
+  "validation": "GroupKFold 5 plis sur train uniquement ; sélection MAE",
+  "test": {
+    "mae": 16.782157676348547,
+    "rmse": 23.99246377994259,
+    "r2": 0.6288289858808702
+  },
+  "train": {
+    "mae": 4.046854357839111,
+    "rmse": 6.879359210350196,
+    "r2": 0.9747106963371378
+  },
+  "reference_test": {
+    "mae": 41.679080126234,
+    "rmse": 49.532489802071524,
+    "r2": -0.5819934294011773
+  },
+  "mae_moyenne_familles": 15.647658585467594,
+  "lignes_train": 16004,
+  "lignes_test": 4820,
+  "familles_train": 355,
+  "familles_test": 89,
+  "intersection_familles": 0,
+  "limite_test": "Test observé historiquement ; audit rétrospectif, validation externe à réaliser"
+}

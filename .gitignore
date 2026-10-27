@@ -1,1 +1,10 @@
-.venv
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+*.pyc
+presentation/.build/
+presentation/.codex-finalizer/
+presentation/.chart-data-*/

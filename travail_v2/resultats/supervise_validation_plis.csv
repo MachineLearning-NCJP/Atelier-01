@@ -1,0 +1,76 @@
+modele,pli,metrique,valeur
+Moyenne constante,1,mae,23.572819314670244
+Moyenne constante,2,mae,34.42835328616528
+Moyenne constante,3,mae,25.04285736978381
+Moyenne constante,4,mae,43.73885194091718
+Moyenne constante,5,mae,34.58550697047797
+Moyenne constante,1,rmse,30.146842554153835
+Moyenne constante,2,rmse,39.63285033482502
+Moyenne constante,3,rmse,35.76822852030323
+Moyenne constante,4,rmse,59.10096596427848
+Moyenne constante,5,rmse,50.477740283113135
+Moyenne constante,1,r2,-0.03951798025398379
+Moyenne constante,2,r2,-0.5826950040855736
+Moyenne constante,3,r2,-0.00943442365138547
+Moyenne constante,4,r2,-0.15402149193606895
+Moyenne constante,5,r2,-0.057756314393982766
+Régression linéaire,1,mae,10.403693526146615
+Régression linéaire,2,mae,11.074486147818579
+Régression linéaire,3,mae,13.784919335510711
+Régression linéaire,4,mae,13.189291825547947
+Régression linéaire,5,mae,13.509664331485379
+Régression linéaire,1,rmse,13.130245969993977
+Régression linéaire,2,rmse,14.732676681094901
+Régression linéaire,3,rmse,20.962534536347942
+Régression linéaire,4,rmse,19.710247694578715
+Régression linéaire,5,rmse,23.158564233457543
+Régression linéaire,1,r2,0.8028058333037773
+Régression linéaire,2,r2,0.781299420871733
+Régression linéaire,3,r2,0.6532864377562451
+Régression linéaire,4,r2,0.8716461492104111
+Régression linéaire,5,r2,0.7773569828595677
+Arbre profondeur 6,1,mae,12.056094660114278
+Arbre profondeur 6,2,mae,14.332725225993878
+Arbre profondeur 6,3,mae,10.913178228686434
+Arbre profondeur 6,4,mae,18.546088638432327
+Arbre profondeur 6,5,mae,17.087682158963073
+Arbre profondeur 6,1,rmse,15.381022967044332
+Arbre profondeur 6,2,rmse,18.340993448909778
+Arbre profondeur 6,3,rmse,15.891315250506851
+Arbre profondeur 6,4,rmse,30.400788330664465
+Arbre profondeur 6,5,rmse,24.720474020601305
+Arbre profondeur 6,1,r2,0.7294056144713112
+Arbre profondeur 6,2,r2,0.6610525831649441
+Arbre profondeur 6,3,r2,0.8007478876054713
+Arbre profondeur 6,4,r2,0.6946524570209969
+Arbre profondeur 6,5,r2,0.7463123033018115
+Forêt profondeur 12,1,mae,10.550140294591131
+Forêt profondeur 12,2,mae,13.068323084733457
+Forêt profondeur 12,3,mae,9.005518115261138
+Forêt profondeur 12,4,mae,13.961840967684525
+Forêt profondeur 12,5,mae,15.592911568064176
+Forêt profondeur 12,1,rmse,13.30310889532594
+Forêt profondeur 12,2,rmse,17.134276389866933
+Forêt profondeur 12,3,rmse,13.16947013385598
+Forêt profondeur 12,4,rmse,25.621097450317244
+Forêt profondeur 12,5,rmse,23.378649749934844
+Forêt profondeur 12,1,r2,0.797579435236143
+Forêt profondeur 12,2,r2,0.7041863887763139
+Forêt profondeur 12,3,r2,0.8631578618826152
+Forêt profondeur 12,4,r2,0.7831196550868327
+Forêt profondeur 12,5,r2,0.7731051355468845
+KNN 7 voisins,1,mae,9.375820056232428
+KNN 7 voisins,2,mae,12.767304860088364
+KNN 7 voisins,3,mae,10.336903646181996
+KNN 7 voisins,4,mae,12.782389431873966
+KNN 7 voisins,5,mae,16.423169642857143
+KNN 7 voisins,1,rmse,12.870057927764622
+KNN 7 voisins,2,rmse,16.835785929921727
+KNN 7 voisins,3,rmse,15.032783425686858
+KNN 7 voisins,4,rmse,20.21873687919826
+KNN 7 voisins,5,rmse,29.9009240907299
+KNN 7 voisins,1,r2,0.8105435726764749
+KNN 7 voisins,2,r2,0.7144031540502677
+KNN 7 voisins,3,r2,0.8216956045487438
+KNN 7 voisins,4,r2,0.8649381234061573
+KNN 7 voisins,5,r2,0.628845237251659

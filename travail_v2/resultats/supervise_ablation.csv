@@ -1,0 +1,6 @@
+variables,modele,mae_moyenne,r2_moyenne
+X principal sans fiscalité,KNN 7 voisins,12.337117527446779,0.7680851383866605
+Sans masse,KNN 7 voisins,17.95114875652698,0.6144817103249988
+Sans énergie,KNN 7 voisins,14.199552056834918,0.7104292729642872
+Diagnostic avec puissance fiscale,KNN 7 voisins,11.997772004842238,0.7791739916742699
+Diagnostic fiscalité + hybride,KNN 7 voisins,23.004672817088412,0.39220388382725485
