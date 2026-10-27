@@ -10,7 +10,7 @@
 | 1 | [Exploration](travail_v2/01_eda_vehicules.ipynb) | Qualité, distributions, familles dominantes, corrélations et questions |
 | 2 | [Supervisé](travail_v2/02_supervise_co2.ipynb) | Définition de X/y, modèles, validation et test familial, erreurs et généralisation |
 | 3 | [Non supervisé](travail_v2/03_non_supervise_vehicules.ipynb) | Variables, standardisation, K-means, coude, silhouette, profils et stabilité |
-| 4 | [Présentation PowerPoint](presentation/output/evaluation_ds_ml_vehicules.pptx) et [guide oral](presentation/guide_oral.md) | 23 diapositives visuelles, 30 minutes et notes orateur |
+| 4 | [Présentation](presentation/evaluation_ds_ml_vehicules.pdf) | 23 diapositives visuelles, 30 minutes et notes orateur |
 
 L’[étude complémentaire à deux entrées](Datascience_et_ML_Prediction_CO2.ipynb) et ses [résultats](prediction_co2/CAS_USAGE.md) sont conservés pour documenter un cas de fiche incomplète et ses difficultés de généralisation. Son protocole et ses scores diffèrent de ceux du notebook supervisé principal ; ne pas les mélanger.
 
@@ -103,15 +103,6 @@ DBSCAN et classification hiérarchique sont **facultatifs** dans le sujet p. 3. 
 - [x] Proposer des améliorations concrètes : nouvelles variables, données récentes, contrôles et méthodes adaptées.
 - [x] Distinguer ce que les résultats permettent de conclure des décisions non validées.
 
-### Livraison et soutenance · sujet p. 3 et demande utilisateur
-
-- [x] Notebooks propres, commentés, exécutés sans erreur et avec interprétations rédigées.
-- [x] Résultats de la présentation traçables vers les sorties des notebooks.
-- [x] Présentation visuelle : graphiques, comparaisons, quelques mots par notion et peu de texte.
-- [x] Notes orateur et minutage **4 + 5 + 16 + 5 = 30 minutes**.
-- [x] Vérifier le rendu de chaque slide et l’absence de chiffres périmés.
-- [ ] Renseigner les noms des membres du groupe si nécessaire et organiser la prise de parole.
-- [ ] Répéter l’oral en groupe et vérifier le temps réel ainsi que le matériel de projection.
 
 ## Reproduire l’étude
 
